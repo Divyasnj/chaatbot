@@ -29,4 +29,4 @@ No external dependencies are needed.
 3. Run the chatbot using:
 
    ```sh
-   python rulebot.py
+   python chatbot.py
